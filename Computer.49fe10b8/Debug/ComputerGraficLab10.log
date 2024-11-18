@@ -1,0 +1,9 @@
+﻿  simulation.cpp
+D:\учеба\ComputerGraficLab10\simulation.cpp(8,12): warning C4244: инициализация: преобразование "__int64" в "float", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(14,25): warning C4244: инициализация: преобразование "LONGLONG" в "double", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(15,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(23,24): warning C4244: =: преобразование "LONGLONG" в "double", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(24,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(25,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\учеба\ComputerGraficLab10\simulation.cpp(29,28): warning C4244: аргумент: преобразование "LONGLONG" в "double", возможна потеря данных
+  ComputerGraficLab10.vcxproj -> D:\учеба\ComputerGraficLab10\Debug\ComputerGraficLab10.exe

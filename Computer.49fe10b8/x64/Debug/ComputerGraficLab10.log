@@ -1,0 +1,49 @@
+﻿  Camera.cpp
+D:\учеба\ComputerGraficLab10\Camera.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Camera.cpp")
+  
+  data.cpp
+D:\учеба\ComputerGraficLab10\data.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "data.cpp")
+  
+  display.cpp
+D:\учеба\ComputerGraficLab10\data.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "display.cpp")
+  
+  GameObject.cpp
+D:\учеба\ComputerGraficLab10\GameObject.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "GameObject.cpp")
+  
+  GameObjectFactory.cpp
+D:\учеба\ComputerGraficLab10\GraphicObject.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "GameObjectFactory.cpp")
+  
+  GraphicObject.cpp
+D:\учеба\ComputerGraficLab10\GraphicObject.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "GraphicObject.cpp")
+  
+  Light.cpp
+D:\учеба\ComputerGraficLab10\Light.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Light.cpp")
+  
+  main.cpp
+D:\учеба\ComputerGraficLab10\data.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
+  Mesh.cpp
+D:\учеба\ComputerGraficLab10\Mesh.h(12,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Mesh.cpp")
+  
+  PhongMaterial.cpp
+D:\учеба\ComputerGraficLab10\PhongMaterial.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "PhongMaterial.cpp")
+  
+  simulation.cpp
+D:\учеба\ComputerGraficLab10\data.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "simulation.cpp")
+  
+  Texture.cpp
+D:\учеба\ComputerGraficLab10\Texture.h(10,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Texture.cpp")
+  
+  Создание кода...
